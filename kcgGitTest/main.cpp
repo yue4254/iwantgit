@@ -14,5 +14,7 @@ int main(int argc, const char * argv[]) {
 	
 	printf("Hello, git!\n");
 	
+	printf("i love c++\n");
+	
     return 0;
 }
